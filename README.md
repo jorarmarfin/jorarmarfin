@@ -8,16 +8,17 @@
 - 💼 **Desarrollador Full Stack**: Trabajo con tecnologías como PHP, Laravel, Flutter, y Angular. También tengo experiencia en React.
 - 📱 **Proyectos Recientes**: Estoy desarrollando una aplicación de escritorio en Electron.js para un sistema de Laravel y trabajando en un libro de declamación virtual utilizando React.
 - 💻 **Herramientas y Tecnologías**:
-    - **Backend**: PHP, Laravel, Node.js
+    - **Backend**: PHP, Laravel, Node.js, Firebase
     - **Frontend**: React, Angular, Flutter
+    - **App**: Flutter
     - **Base de datos**: MySQL, SQLite
-    - **Otros**: Docker, AWS
+    - **Otros**: Docker, AWS, Wordpress, Drupal
 
 ## Proyectos Destacados
 
 ### El Vive
 - Aplicativo creado para un evento católico para jóvenes.
-- Implementado con Laravel y Vue.js.
+- Implementado con Firebase y Flutter.
 
 ### Sistema de Mensajería WhatsApp
 - Aplicación de escritorio desarrollada con Electron.js y Laravel.
