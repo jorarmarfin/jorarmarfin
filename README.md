@@ -29,13 +29,13 @@
 
 ## Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Correo](mailto:tu.correo@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luis-fernando-mayta-campos-7b3364141/))
+- [Twitter]([https://x.com/luiscamp2003))
+- [Correo](mailto:luis.mayta@gmail.com)
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de Luis Mayta](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Luis Mayta](https://github-readme-stats.vercel.app/api?username=jorarmarfin&show_icons=true&theme=radical)
 
 ---
 
